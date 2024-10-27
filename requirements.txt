@@ -11,3 +11,4 @@ psycopg2
 opencv-python
 torchvision
 tensorflow 
+werkzeug==2.0.3

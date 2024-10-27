@@ -1,3 +1,4 @@
 /data
 /venv
 /notebooks/models/mlruns
+/saved_models

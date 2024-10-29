@@ -7,8 +7,10 @@ openpyxl
 dbt
 dbt-core
 sqlalchemy 
-psycopg2
+psycopg2-binary
 opencv-python
 torchvision
 tensorflow 
-werkzeug==2.0.3
+werkzeug
+Flask-Logging
+Flask
